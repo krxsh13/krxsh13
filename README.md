@@ -21,7 +21,7 @@ I'm a passionate **App & Full Stack Developer** from Mumbai, India — turning i
 - 🔭 &nbsp;Currently building cool stuff with **React Native & TypeScript**
 - 🌱 &nbsp;Exploring **system design** and **performance optimization**
 - 💬 &nbsp;Ask me about **React Native, MERN stack, or anything JS/TS**
-- 📫 &nbsp;Reach me at **[krishdocs1305@gmail.com](mailto:krishdocs1305@gmail.com)**
+- 📫 &nbsp;Reach me at **[krisharora1305@gmail.com](mailto:krisharora1305@gmail.com)**
 - ⚡ &nbsp;Fun fact: *I think I can code!*
 
 <br/>
