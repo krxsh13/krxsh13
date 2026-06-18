@@ -1,0 +1,12 @@
+<svg width="1200" height="260" viewBox="0 0 1200 260" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="260" fill="#111111"/>
+  <circle cx="1130" cy="30" r="100" fill="#ffffff" opacity="0.04"/>
+  <circle cx="1190" cy="230" r="55" fill="#ffffff" opacity="0.04"/>
+  <rect x="80" y="58" width="46" height="3" fill="#ffffff" fill-opacity="0.5"/>
+
+  <text x="80" y="98" font-family="'Courier New', monospace" font-size="15" letter-spacing="2.5" fill="#ffffff" fill-opacity="0.55">AI / ML ENGINEER</text>
+
+  <text x="78" y="165" font-family="Arial, sans-serif" font-size="54" font-weight="700" fill="#ffffff">Krish Arora</text>
+
+  <text x="80" y="202" font-family="Arial, sans-serif" font-size="17" fill="#ffffff" fill-opacity="0.55">Mumbai, India</text>
+</svg>
